@@ -1,7 +1,7 @@
-# NC_Tools
+# NC_Products
 
-Nemoharu Creative の配布用ツールのダウンロード置き場です。ファイルは [Releases](https://github.com/yuiitsu0815/NC_Tools/releases) にあります。
-Downloads for Nemoharu Creative tools. Files are on the [Releases](https://github.com/yuiitsu0815/NC_Tools/releases) page.
+Nemoharu Creative の配布用ツールのダウンロード置き場です。ファイルは [Releases](https://github.com/yuiitsu0815/NC_Products/releases) にあります。
+Downloads for Nemoharu Creative tools. Files are on the [Releases](https://github.com/yuiitsu0815/NC_Products/releases) page.
 
 ソースコードはここには置いていません。
 Source code is not hosted here.
