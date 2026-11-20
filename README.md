@@ -21,5 +21,5 @@ Source code is not hosted here.
 
 ## 利用規約 / Terms of Use
 
-ダウンロードした時点で[利用規約](https://topaz-gull-80e.notion.site/Nemoharu-Creative-3bfc75e7b42f810187b7d2f6b4f3f427)に同意したものとみなします。
-By downloading, you agree to the [Terms of Use](https://topaz-gull-80e.notion.site/Nemoharu-Creative-3bfc75e7b42f810187b7d2f6b4f3f427).
+ダウンロードした時点で[利用規約](https://nemoharu.studio.site/terms)に同意したものとみなします。
+By downloading, you agree to the [Terms of Use](https://nemoharu.studio.site/terms).
