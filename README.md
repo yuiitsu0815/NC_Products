@@ -31,5 +31,5 @@ Source code is not hosted here.
 
 ## 利用規約 / Terms of Use
 
-ダウンロードした時点で[利用規約](https://nemoharu.studio.site/terms)に同意したものとみなします。
-By downloading, you agree to the [Terms of Use](https://nemoharu.studio.site/terms).
+ダウンロードした時点で[利用規約](https://nemoharu-creative.com/terms)に同意したものとみなします。
+By downloading, you agree to the [Terms of Use](https://nemoharu-creative.com/terms).
