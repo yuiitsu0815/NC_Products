@@ -11,7 +11,7 @@ Source code is not hosted here.
 | ツール / Tool | 内容 / Description | 対応 / Requirements |
 | --- | --- | --- |
 | NC_SmartScreenShot | シーケンスマーカーの位置のフレームを PNG（8/16bit）・JPEG で一括書き出しする Premiere Pro プラグイン<br>A Premiere Pro plugin that exports the frames at your sequence markers as PNG (8/16-bit) or JPEG in one go | Premiere Pro 2025 (25.6+) – 2027 / Windows・macOS |
-| NC_AudioAnalyzer Plugin | DAW のマスターに挿して、いま鳴っている音を一画面で見るアナライザー（VST3 プラグイン＋スタンドアロン版）<br>An all-in-one analyzer for your DAW's master that shows what is playing right now on one screen (VST3 plug-in + standalone) | Windows 10 / 11 (64-bit)・VST3 DAW |
+| NC_AudioAnalyzer | DAW のマスターに挿して、いま鳴っている音を一画面で見るアナライザー（VST3 プラグイン＋スタンドアロン版）<br>An all-in-one analyzer for your DAW's master that shows what is playing right now on one screen (VST3 plug-in + standalone) | Windows 10 / 11 (64-bit)・VST3 DAW |
 
 ## インストール / Install
 
@@ -22,10 +22,10 @@ Source code is not hosted here.
 2. ダブルクリックしてインストール（Creative Cloud にサインインしておく）
    Double-click it to install (sign in to Creative Cloud first)
 
-**NC_AudioAnalyzer Plugin（`.exe`）**
+**NC_AudioAnalyzer（`.exe`）**
 
-1. Release から `NC_AudioAnalyzer-Plugin-Setup-<版>.exe` をダウンロードして実行（日本語・英語共通）
-   Download and run `NC_AudioAnalyzer-Plugin-Setup-<version>.exe` from Releases (Japanese & English)
+1. Release から `NC_AudioAnalyzer-Setup-<版>.exe` をダウンロードして実行（日本語・英語共通）
+   Download and run `NC_AudioAnalyzer-Setup-<version>.exe` from Releases (Japanese & English)
 2. 「Windows によって PC が保護されました」と出たら「詳細情報」→「実行」
    If Windows shows "Windows protected your PC", click "More info" → "Run anyway"
 
